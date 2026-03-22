@@ -8,6 +8,12 @@ A simple console-based Rock Paper Scissors game built using C++.
 - Score tracking system
 - Clean structured code using enums and structs
 
+## Concepts Used
+- Enums
+- Structs
+- Game logic design
+- Random number generation
+
 ## Technologies Used
 - C++
 - Visual Studio
