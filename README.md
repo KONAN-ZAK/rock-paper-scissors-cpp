@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game (C++)
+![Game Screenshot](screenshot.png)
 
 A simple console-based Rock Paper Scissors game built using C++.
 
