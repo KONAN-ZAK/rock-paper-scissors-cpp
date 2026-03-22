@@ -3,7 +3,7 @@
 A simple console-based Rock Paper Scissors game built using C++.
 
 ## Features
-- Multiple rounds gameplay
+- Multiple rounds of gameplay
 - Random computer choices
 - Score tracking system
 - Clean structured code using enums and structs
@@ -18,4 +18,4 @@ A simple console-based Rock Paper Scissors game built using C++.
 3. Run the program
 
 ## Author
-Kenan
+Kenan Alzakout
